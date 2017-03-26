@@ -1,0 +1,13 @@
+RewriteEngine On
+RewriteRule "index.html" "index.php"
+
+RewriteRule "^(.*)-(.*).html$" "single.php?pid=$1&ptitle=$2"
+
+RewriteRule "^(.*)-(.*).aspx$" "categories.php?cid=$1&cname=$2"
+
+RewriteRule "contact.js" "contact.php"
+RewriteRule "change.js" "change_password.php"
+RewriteRule "retrieve.js" "retrieve_password.php"
+RewriteRule "login.ejs" "login.php"
+RewriteRule "register.tunguyen" "register.php"
+RewriteRule "myprofile.jsp" "profile.php"

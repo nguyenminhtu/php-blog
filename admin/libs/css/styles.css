@@ -1,0 +1,6 @@
+*{margin: 0px; padding: 0px;}
+a:hover{text-decoration: none;}
+.row{width: 100%;}
+.navbar-inverse{margin-bottom: 0px; border-radius: 0px; padding: 10px 0px;}
+.navbar-inverse .navbar-nav > li > a{color: #fff;}
+.active{font-weight: bold; color: red;}
