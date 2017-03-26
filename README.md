@@ -7,7 +7,8 @@ Simple Blog with PHP &amp; MySQL
 3. Using Invisible reCAPTCHA to anti-spam
 4. Validate register account with send mail
 5. Edit profile
-6. Retrieve password with send mail
+6. Forgot password
+7. Rewrite url
 
 ## Demo
 [PHP Blog](http://realescapestring.byethost7.com)
