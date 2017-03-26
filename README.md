@@ -10,4 +10,4 @@ Simple Blog with PHP &amp; MySQL
 6. Retrieve password with send mail
 
 ## Demo
-[PHP Blog](http://realescapestring.byethost7.com, target="_blank")
+[PHP Blog](http://realescapestring.byethost7.com)
